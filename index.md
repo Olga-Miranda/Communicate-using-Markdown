@@ -5,3 +5,4 @@
 ##### H5 Header
 ###### H6 Header
 
+![Dora img] (https://github.com/Olga-Miranda/Communicate-using-Markdown/blob/main/dora.jpg)
